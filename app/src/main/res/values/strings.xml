@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HealthBuddy</string>
+    <string name="todo">TODO</string>
+    <string name="log_in">Log In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Register">Don\'t have an account? <b>Sign Up</b></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_account">Already have an account?<b> Sign In</b></string>
+    <string name="hello">Hello</string>
+    <string name="info"><b>Stay Home!</b>\nSchedule an e-visit and discuss the plan with doctor.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
